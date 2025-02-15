@@ -1,4 +1,4 @@
-# Quora Question Pair Project
+# Question-Pair-similarity
 
 This project analyzes and predicts whether a pair of questions from Quora are duplicates or not using various machine learning techniques.
 
